@@ -1,4 +1,4 @@
-# Workplace Integrated Learning
+# Workplace Integrated Classroom
 
 A small website coded using Markdown outlining the struture and perceived benefits of Workplace Integrated Classroom (WIC). 
 
