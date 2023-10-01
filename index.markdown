@@ -51,14 +51,24 @@ This teaching method was initially designed within a Workshops course in a Web D
 > Workshops  
 > This course will allow students to access additional support for content delivered in the other classes each semester. Every student in the class will engage in a process of self-assessment to help them identify areas where they would benefit from help, and then the student and teaching team will set up a process for providing support for any areas where the student would benefit from some in-the-moment support. Mentors, tutors and workshops will be available.
 
+Students enrolled in this program have a varying degree of previous experience with coding. Students range from absolute coding beginners to recent graduates of university computer science programs.
 
-In a typical Canadian college semester, made up of fourteen weeks, a timeline would look like this:
+The industry parter was [BrevisRefero](https://www.brevisrefero.com/), a BioPharma software start-up located close to Toronto, Canada. The project was [BrickMMO](https://brickmmo.com/), a smart city development platform built with LEGO® bricks. The main instrucro was [Adam Thomas](https://codeadam.ca/).
 
-#### Weeks 1 to 3
+This is a first semester course. A typical Canadian college semester is fourteen weeks. The following is the timeline we used to inegrate WIC:
 
-Students are onboard and introduced to the workplace process, guidelines, and project management tools.
+#### Weeks 1 to 3 - Onboarding
 
-#### Weeks 4 to 6
+Students are onboard and introduced to the workplace process, guidelines, and project management tools. This included:
+
+1. GitHub and Git
+    These are tools that enable collaboration on coding projects.
+2. Flow
+    A basic custom project management application. Students can log in, receive projects tasks, ask questions, log hours, etc...
+3. Discord
+    A comminication tool where students are placed in groups based on projects, can chat with other students, share files, etc...
+
+#### Weeks 4 to 6 - 
 
 Students are placed in groups with rotating team leaders. Over the three weeks groups are assigned progressivly more and more difficult tasks reinforcing processes from the first wek weeks. 
 
