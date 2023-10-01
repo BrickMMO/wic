@@ -16,7 +16,7 @@ In a Workplace Integrated Classroom, the classroom environment is designed to mi
 2. Classes are longer to more closely resemble a full workday.
 3. There are no lectures, assignments, homework, or tests.
 4. Students are arranged into teams with rotating team leaders.
-5. Students are taught by assigning progressively harder and harder tasks.
+5. Students are taught by  being assigned progressively harder and harder tasks.
 
 ### Timeline
 
@@ -34,13 +34,23 @@ WIC has many similarities to other teaching methods:
 
 Project Based Learning (PBL) is a teaching method in which students learn by "actively engaging in real-world and personally meaningful projects" (PBLWorks, n.d.). 
 
-WIC has similar qualities to that of PBL in that both are project based. However, WIC works best with an industry partner and multiple on-going industry projects. This allows students to contribute to multiple projects of varying difficulty where PBL typical has students all woroking on the same simulated project.   
+WIC has similar qualities to that of PBL in that both are project based. However, WIC works best with an industry partner and multiple on-going industry projects. This allows students to contribute to multiple projects of varying difficulty and at veriying satges where PBL typical has students all working on the same simulated project from start to finish.
 
 #### Work Baed Learning 
 
-Work Based Learning (WBL) is defined as the development and assessment of skills within the workplace (citation).
+Work Based Leanring (WBL) is defined as "acquiring technical, academic, and employability skills by working in real work environments" (CEWIL Canada, n.d.).
 
-#### Case Stury
+WIC has similar qualities to that of WBL in that both integrate with the workplace. WBL typically sends students out into the workplace to learn in a real work environment, whereas WIC integrates real world work into the classroom. This provides students with a less intimidating learning environment with the immediate support of faculty and fellow students. 
+
+WBL also typically requires students to be near the end of their program whereaas WIC can be inpemented in day one of a program.
+
+### Case Study
+
+This teaching method was initially designed within a Workshops course in a Web Development program at Humber College, in Toronto, Canada.
+
+> Workshops
+> This course will allow students to access additional support for content delivered in the other classes each semester. Every student in the class will engage in a process of self-assessment to help them identify areas where they would benefit from help, and then the student and teaching team will set up a process for providing support for any areas where the student would benefit from some in-the-moment support. Mentors, tutors and workshops will be available.
+
 
 In a typical Canadian college semester, made up of fourteen weeks, a timeline would look like this:
 
@@ -60,6 +70,7 @@ Students are assigned tasks based on their skilset and desire to learn. Each wee
 
 and then complete assigned task which progressively become more difficult. This format provides students with as close to a real-world work environment as possible while still maintaining the comfort of the classroom and the support of fellow students and faculty.
 
+Workong on someone else's code is a sill often found lacking in new grads.
 
 
 In this research project we modify a programming course to closely resemble that of a typical software startup development environment. The software being developed in this research project is called BrickMMO: a Smart City Development Platform for use with LEGO bricks. 
