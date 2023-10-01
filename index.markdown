@@ -67,9 +67,8 @@ In this research project we modify a programming course to closely resemble that
 In this course format students are treated more like employees than students. Classes are longer to more closely resemble a full workday. There are no lectures, assignments, homework, or tests. During the first few weeks, students are on boarded by being introduced to the development process, programming guidelines, and project management tools. For the reminder of the semester students are organized into teams, participate in stand-up style meetings, and then complete assigned task which progressively become more difficult. This format provides students with as close to a real-world work environment as possible while still maintaining the comfort of the classroom and the support of fellow students and faculty.
 
 
-> <small>What is PBL? (n.d.). PBLWorks. https://www.pblworks.org/what-is-pbl</small>
-
-
+> <small>What is PBL? (n.d.). PBLWorks. [https://www.pblworks.org/what-is-pbl](https://www.pblworks.org/what-is-pbl)</small>
+> <small>Work integrated learning. (n.d.). CEWIL Canada. [https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx](https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx)</small>
 
 ---
 
