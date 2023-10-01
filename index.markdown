@@ -53,13 +53,13 @@ This teaching method was initially designed within a Workshops course in a Web D
 
 Students enrolled in this program have a varying degree of previous experience with coding. Students range from absolute coding beginners to recent graduates of university computer science programs.
 
-The industry parter was [BrevisRefero](https://www.brevisrefero.com/), a BioPharma software start-up located close to Toronto, Canada. The project was [BrickMMO](https://brickmmo.com/), a smart city development platform built with LEGO® bricks. The main instrucro was [Adam Thomas](https://codeadam.ca/).
+The industry parter was [BrevisRefero](https://www.brevisrefero.com/), a BioPharma software start-up located close to Toronto, Canada. The project was [BrickMMO](https://brickmmo.com/), a smart city development platform built with LEGO® bricks. The main instructor was [Adam Thomas](https://codeadam.ca/).
 
-This is a first semester course. A typical Canadian college semester is fourteen weeks. The following is the timeline we used to inegrate WIC:
+This is a first semester course. A typical Canadian college semester is fourteen weeks. The following is the timeline used to inegrate WIC:
 
 #### Weeks 1 to 3 - Onboarding
 
-Students are onboard and introduced to the workplace process, guidelines, and project management tools. This included:
+Students are onboarded and introduced to the workplace process, guidelines, and project management tools. This included:
 
 1. GitHub and Git
     These are tools that enable collaboration on coding projects.
@@ -68,9 +68,16 @@ Students are onboard and introduced to the workplace process, guidelines, and pr
 3. Discord
     A comminication tool where students are placed in groups based on projects, can chat with other students, share files, etc...
 
+Tasks included:
+
+1. Installing required software ([Git](https://git-scm.com/), [Homebrew](https://brew.sh/), [GitHub CLI](https://cli.github.com/), [Visual Studio Code](https://code.visualstudio.com/)).
+2. Registering for required accounts and completing profiles ([GitHub](https://cli.github.com/), [Flow](https://flow.brickmmo.com/), [Discord](https://discord.com/)).
+
 #### Weeks 4 to 6 - 
 
-Students are placed in groups with rotating team leaders. Over the three weeks groups are assigned progressivly more and more difficult tasks reinforcing processes from the first wek weeks. 
+Students are assigned simple tasks that can be completed as individuals. Students were placed in groups only to suppot each other. Over the three weeks the tasks increased in difficulty. Tasks included:
+
+3. Making basic changes to BrickMMO online assets using simple laguages such as [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [Markdown](https://daringfireball.net/projects/markdown/syntax). 
 
 #### Weeks 7 to 14
 
