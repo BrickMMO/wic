@@ -1,2 +1,3 @@
-# wic
-The Work Integrated Classroom framework
+# Workplace Integrated Learning
+
+
