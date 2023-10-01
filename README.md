@@ -1,6 +1,6 @@
 # Workplace Integrated Learning
 
-A samll website coded using Markdown outlining the struture and purpose of Workplace Integrated Classroom (WIC). 
+A small website coded using Markdown outlining the struture and purpose of Workplace Integrated Classroom (WIC). 
 
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
