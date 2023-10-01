@@ -68,7 +68,8 @@ In this course format students are treated more like employees than students. Cl
 
 
 > <small>What is PBL? (n.d.). PBLWorks. [https://www.pblworks.org/what-is-pbl](https://www.pblworks.org/what-is-pbl)</small>
-> <small>Work integrated learning. (n.d.). CEWIL Canada. [https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx](https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx)</small>
+
+> <small>Work integrated learning. (n.d.). CEWIL Canada. [https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx](https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx)</small>  
 
 ---
 
