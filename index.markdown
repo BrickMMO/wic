@@ -96,6 +96,8 @@ Students are placed in groups and assigned tasks based on their skillset and des
 
 ### Conclusions
 
+### References
+
 > <small>What is PBL? (n.d.). PBLWorks. [https://www.pblworks.org/what-is-pbl](https://www.pblworks.org/what-is-pbl)</small>
 
 > <small>Work integrated learning. (n.d.). CEWIL Canada. [https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx](https://cewilcanada.ca/CEWIL/CEWIL/About-Us/Work-Integrated-Learning.aspx)</small>
