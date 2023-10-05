@@ -44,7 +44,7 @@ WIC has similar qualities to that of WBL in that both integrate with the workpla
 
 ### Case Study
 
-This teaching method was initially designed within Web Development program at Humber College, in Toronto, Canada.
+This teaching method was initially designed within Web Development program at [Humber College](https://humber.ca/), in Toronto, Canada.
 
 Students enrolled in this program have varying degree of previous experience with coding ranging from absolute coding beginners to recent graduates of university computer science programs.
 
@@ -55,7 +55,7 @@ WIC was integrated into a Workshops course. This is a first semester course. A t
 
 The industry parter was [BrevisRefero](https://www.brevisrefero.com/), a BioPharma software start-up located close to Toronto, Canada. The project was [BrickMMO](https://brickmmo.com/), a smart city development platform built with LEGO® bricks. The main instructor was [Adam Thomas](https://codeadam.ca/).
 
-![Adam Thomas](images/codeadam.jpg) ![Humber College](images/humber.jpg) ![BrevisRefero](images/brevisrefero.jpg)
+[![Adam Thomas](images/codeadam.jpg)](https://codeadam.ca/) [![Humber College](images/humber.jpg)](https://humber.ca/) [![BrevisRefero](images/brevisrefero.jpg)](https://www.brevisrefero.com/)
 
 The following is the timeline used to inegrate WIC:
 
