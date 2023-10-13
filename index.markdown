@@ -4,7 +4,7 @@
 
 ## Workplace Integrated Classroom
 
-Workplace Integrated Classroom is a teaching method that provides students with a close to industry workplace experience while still maintianing the comfort of the classroom and support of faculty and students.
+Workplace Integrated Classroom is a teaching method that provides students with a close to industry workplace experience while still maintaining the comfort of the classroom and support of faculty and students.
 
 WIC prioritizes individual growth over evaluation, learn by doing over lectures, and individual student learning journeys over learning outcomes.
 
@@ -24,7 +24,7 @@ Workplace Integrated Classroom (WIC) is designed to be implemented over a comple
 
 ### Difficulties
 
-The largest barrier to implementing Workplace Integrated Classroom (WIC) is the requirement for an industy partner (or an internal deparment) with a project large enough to _employ_ a complete class of students for over 14 weeks.
+The largest barrier to implementing Workplace Integrated Classroom (WIC) is the requirement for an industry partner (or an internal department) with a project large enough to _employ_ a complete class of students for over 14 weeks.
 
 ### How is this Different than other Teaching Methods?
 
@@ -34,13 +34,13 @@ Workplace Integrated Classroom (WIC) has many similarities to other teaching met
 
 Project Based Learning (PBL) is a teaching method in which students learn by "actively engaging in real-world and personally meaningful projects" (PBLWorks, n.d.).
 
-WIC has similar qualities to that of PBL in that both are project based. PBL typical has many students working on the same simulated project from start to finish. WIC works best with an industry partner and multiple on-going industry projects. This allows students to contribute to multiple projects of varying difficulty and at veriying stages.
+WIC has similar qualities to that of PBL in that both are project based. PBL typical has many students working on the same simulated project from start to finish. WIC works best with an industry partner and multiple on-going industry projects. This allows students to contribute to multiple projects of varying difficulty and at verifying stages.
 
-#### Work Baed Learning
+#### Work Based Learning
 
 Work Based Learning (WBL) is defined as "acquiring technical, academic, and employability skills by working in real work environments" (CEWIL Canada, n.d.).
 
-WIC has similar qualities to that of WBL in that both integrate with the workplace. WBL typically sends students out into the workplace to learn in a real work environment. WIC integrates real world work into the classroom. This provides students with a less intimidating learning environment with the immediate support of faculty and fellow students. WBL also typically requires students to be near the end of their program whereaas WIC can be inpemented in day one of a program.
+WIC has similar qualities to that of WBL in that both integrate with the workplace. WBL typically sends students out into the workplace to learn in a real work environment. WIC integrates real world work into the classroom. This provides students with a less intimidating learning environment with the immediate support of faculty and fellow students. WBL also typically requires students to be near the end of their program whereas WIC can be implemented in day one of a program.
 
 ### Case Study
 
@@ -53,7 +53,7 @@ WIC was integrated into a Workshops course. This is a first semester course. A t
 > Workshops  
 > This course will allow students to access additional support for content delivered in the other classes each semester. Every student in the class will engage in a process of self-assessment to help them identify areas where they would benefit from help, and then the student and teaching team will set up a process for providing support for any areas where the student would benefit from some in-the-moment support. Mentors, tutors and workshops will be available.
 
-The industry parter was [BrevisRefero](https://www.brevisrefero.com/), a BioPharma software start-up located close to Toronto, Canada. The project was [BrickMMO](https://brickmmo.com/), a smart city development platform built with LEGO® bricks. The main instructor was [Adam Thomas](https://codeadam.ca/).
+The industry partner was [BrevisRefero](https://www.brevisrefero.com/), a BioPharma software start-up located close to Toronto, Canada. The project was [BrickMMO](https://brickmmo.com/), a smart city development platform built with LEGO® bricks. The main instructor was [Adam Thomas](https://codeadam.ca/).
 
 [![Adam Thomas](images/codeadam.jpg)](https://codeadam.ca/) [![Humber College](images/humber.jpg)](https://humber.ca/) [![BrevisRefero](images/brevisrefero.jpg)](https://www.brevisrefero.com/)
 
