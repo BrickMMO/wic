@@ -6,7 +6,7 @@ A small website coded using Markdown outlining the struture and perceived benefi
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
 
 > This repo is available to view at  
-> [https://wic.brickmmo.com](https://wic.codeadam.ca)
+> [https://wic.codeadam.ca](https://wic.codeadam.ca)
 
 ---
 
