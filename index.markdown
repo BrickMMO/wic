@@ -123,7 +123,8 @@ Here are a few samples charts and observations:
 ![Student 100001 Raw Data](images/student-100001-chart.png)
 
 **Observations**
-The self-efficacy for GitHub, Markdown, adn PHP increased as fast as topics such as C#, CSS, HTML, and JavaScript despite not having courses deicated to these topics. The self-efficacy in PHP declined over the course, this is likely due to this student not choosing an Individual or Group Task related to PHP. 
+
+The self-efficacy for GitHub, Markdown, and PHP (taught using the WIC methodology) increased as fast as topics such as C#, CSS, HTML, and JavaScript despite not having courses deicated to these topics. The self-efficacy in PHP declined over the course, this is likely due to this student not choosing an Individual or Group Task related to PHP. 
 
 #### Student 100019
 
@@ -132,6 +133,7 @@ The self-efficacy for GitHub, Markdown, adn PHP increased as fast as topics such
 ![Student 100019 Raw Data](images/student-100019-chart.png)
 
 **Observations**
+
 The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gains. The largest increases in self-efficacy for GitHub, Markdown, and PHP are reflective of when students are assigned realted tasks. GitHub and Markdown are assigned during the Onboarding phase and PHP is assigned during the Individual and Group Task phase. 
 
 #### Student 100031
@@ -142,6 +144,7 @@ The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gain
 
 **Observations**
 
+The self-efficacy for all topics increased a approximately the same rate. This is despite some topics having dedicated courses (C#, CSS, HTML, JavaScript) white others are taught using the WIC methodology (GitHub, Markdown, PHP). 
 
 #### Student 100035
 
@@ -150,9 +153,12 @@ The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gain
 ![Student 100035 Raw Data](images/student-100035-chart.png)
 
 **Observations**
-The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gains. The largest increases in self-efficacy for GitHub, Markdown, and PHP are reflective of when students are assigned realted tasks. GitHub and Markdown are assigned during the Onboarding phase and PHP is assigned during the Individual and Group Task phase. 
+
+This student appears to have started the course with existing skills in CSS, GitHub, HTML, and JavaScript). The larget increases in self-efficacy were topics taught using the WIC methodology (GitHub and Markdown). The self-efficacy in PHP did not change over the course, this is likely due to this student not choosing an Individual or Group Task related to PHP.
 
 ### Conclusions
+
+
 
 ### References
 
