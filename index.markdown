@@ -59,7 +59,7 @@ The industry partner was [BrevisRefero](https://www.brevisrefero.com/), a BioPha
 
 The following is the timeline used to inegrate WIC:
 
-#### Weeks 1 to 3 - Onboarding
+#### Weeks 1 to 4 - Onboarding
 
 Students are onboarded and introduced to the workplace process, guidelines, and project management tools. This included:
 
@@ -76,7 +76,7 @@ Tasks included:
 1. Installing required software ([Git](https://git-scm.com/), [Homebrew](https://brew.sh/), [GitHub CLI](https://cli.github.com/), [Visual Studio Code](https://code.visualstudio.com/)).
 2. Registering for required accounts and completing profiles ([GitHub](https://cli.github.com/), [Flow](https://flow.brickmmo.com/), [Discord](https://discord.com/)).
 
-#### Weeks 4 to 6 - Individual Tasks
+#### Weeks 5 to 10 - Individual Tasks
 
 Students are assigned simple tasks that can be completed as individuals. Students were placed in groups only to suppot each other. Over the three weeks the tasks increased in difficulty. Tasks included:
 
@@ -86,13 +86,71 @@ Students are assigned simple tasks that can be completed as individuals. Student
 > View a complete list of tasks and detailed instrucitons:  
 > [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
 
-#### Weeks 7 to 14
+#### Weeks 11 to 14 -  Groups Tasks
 
 Students are placed in groups and assigned tasks based on their skillset and desire to learn. Each week class is started with a stand up style meeting and then students are given time to work on their projects. Projects include:
 
 1. Contributing to the development of the official [BrickMMO website](https://brickmmo.com/). This is a more advance task which requires understanding of [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [React](https://react.dev/), and [MUI](https://mui.com/).
 2. Contributing to the improvement of [Flow](https://flow.brickmmo.com/). This is a medium difficulty task whcih requires basic understanding ot [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), and [CSS]((https://developer.mozilla.org/en-US/docs/Web/CSS).
 3. Contributing to basic online assets such as [Pseudocoide](https://pseudocode.codeadam.ca/), [Contributions](https://contributions.brickmmo.com/), and [Conversions](https://conversions.brickmmo.com). These are introductory level tasks which require no previous coding expereince. They will be coded using [Markdown](https://daringfireball.net/projects/markdown/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+### Methodology
+
+During the 14 week first semester students were periodically asked to assess their self-efficacy related to seven primary topics in the program (in alphabetical order):
+
+1. C#
+2. CSS
+3. GitHub
+4. HTML
+5. JavaScript
+6. Markdown
+7. PHP
+
+Data was collected anonymously. Any data sets that had less than five entries was removed. Remaining data was plotted on a line graph for each student and compared. 
+
+A few important notes before analyizing the results:
+
+1. During this semester, students had dedcated courses in C#, CSS, HTML, and JavaScript.
+2. During the Workshops course students received instructions on how to use GitHub and Markdown in the BrickMMO group development environment. 
+3. During the individual and group tasks (weeks 5 to 14), students worked on projetcs using MarkDown, HTML, CSS, JavaScript, and PHP without receiving any typical lectures. 
+
+Here are a few samples charts and observations:
+
+#### Student 100001
+
+![Student 100001 Raw Data](images/student-100001-raw.png)
+
+![Student 100001 Raw Data](images/student-100001-chart.png)
+
+**Observations**
+The self-efficacy for GitHub, Markdown, adn PHP increased as fast as topics such as C#, CSS, HTML, and JavaScript despite not having courses deicated to these topics. The self-efficacy in PHP declined over the course, this is likely due to this student not choosing an Individual or Group Task related to PHP. 
+
+#### Student 100019
+
+![Student 10019 Raw Data](images/student-100019-raw.png)
+
+![Student 100019 Raw Data](images/student-100019-chart.png)
+
+**Observations**
+The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gains. The largest increases in self-efficacy for GitHub, Markdown, and PHP are reflective of when students are assigned realted tasks. GitHub and Markdown are assigned during the Onboarding phase and PHP is assigned during the Individual and Group Task phase. 
+
+#### Student 100031
+
+![Student 100031 Raw Data](images/student-100031-raw.png)
+
+![Student 100031 Raw Data](images/student-100031-chart.png)
+
+**Observations**
+
+
+#### Student 100035
+
+![Student 100035 Raw Data](images/student-100035-raw.png)
+
+![Student 100035 Raw Data](images/student-100035-chart.png)
+
+**Observations**
+The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gains. The largest increases in self-efficacy for GitHub, Markdown, and PHP are reflective of when students are assigned realted tasks. GitHub and Markdown are assigned during the Onboarding phase and PHP is assigned during the Individual and Group Task phase. 
 
 ### Conclusions
 
