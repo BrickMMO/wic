@@ -16,7 +16,7 @@ In a Workplace Integrated Classroom (WIC), the classroom environment is designed
 2. Classes are longer to more closely resemble a full workday.
 3. There are no lectures, assignments, homework, or tests.
 4. Students are arranged into teams with rotating team leaders.
-5. Students are taught by being assigned progressively harder and harder tasks.
+5. Students are taught by being assigned progressively more difficult tasks.
 
 ### Timeline
 
@@ -44,11 +44,9 @@ WIC has similar qualities to that of WBL in that both integrate with the workpla
 
 ### Case Study
 
-This teaching method was initially designed within Web Development program at [Humber College](https://humber.ca/), in Toronto, Canada.
+This teaching method was initially designed within Web Development program at [Humber College](https://humber.ca/), in Toronto, Canada. Students enrolled in this program have varying degree of previous experience with coding ranging from absolute coding beginners to recent graduates of university computer science programs.
 
-Students enrolled in this program have varying degree of previous experience with coding ranging from absolute coding beginners to recent graduates of university computer science programs.
-
-WIC was integrated into a Workshops course. This is a first semester course. A typical Canadian college semester is fourteen weeks. Workshops course description:
+WIC was integrated into a **Workshops in Web Development** course. This is a first semester course. A typical Canadian college semester is fourteen weeks. Workshops course description:
 
 > Workshops  
 > This course will allow students to access additional support for content delivered in the other classes each semester. Every student in the class will engage in a process of self-assessment to help them identify areas where they would benefit from help, and then the student and teaching team will set up a process for providing support for any areas where the student would benefit from some in-the-moment support. Mentors, tutors and workshops will be available.
@@ -57,7 +55,7 @@ The industry partner was [BrevisRefero](https://www.brevisrefero.com/), a BioPha
 
 [![Adam Thomas](images/codeadam.jpg)](https://codeadam.ca/) [![Humber College](images/humber.jpg)](https://humber.ca/) [![BrevisRefero](images/brevisrefero.jpg)](https://www.brevisrefero.com/)
 
-The following is the timeline used to inegrate WIC:
+The following is the timeline used to inegrate WIC in this course:
 
 #### Weeks 1 to 4 - Onboarding
 
@@ -78,13 +76,10 @@ Tasks included:
 
 #### Weeks 5 to 10 - Individual Tasks
 
-Students are assigned simple tasks that can be completed as individuals. Students were placed in groups only to suppot each other. Over the three weeks the tasks increased in difficulty. Tasks included:
+Students are assigned simple tasks that can be completed as an individual. Students were placed in groups only to suppot each other. Over the six weeks the tasks increased in difficulty. Tasks included:
 
 1. Making basic changes to BrickMMO online assets using simple laguages such as [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [Markdown](https://daringfireball.net/projects/markdown/).
 2. Participating in BrickMMO related hackathons and brainstorming sessions.
-
-> View a complete list of tasks and detailed instrucitons:  
-> [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
 
 #### Weeks 11 to 14 -  Groups Tasks
 
@@ -93,6 +88,9 @@ Students are placed in groups and assigned tasks based on their skillset and des
 1. Contributing to the development of the official [BrickMMO website](https://brickmmo.com/). This is a more advance task which requires understanding of [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [React](https://react.dev/), and [MUI](https://mui.com/).
 2. Contributing to the improvement of [Flow](https://flow.brickmmo.com/). This is a medium difficulty task whcih requires basic understanding ot [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), and [CSS]((https://developer.mozilla.org/en-US/docs/Web/CSS).
 3. Contributing to basic online assets such as [Pseudocoide](https://pseudocode.codeadam.ca/), [Contributions](https://contributions.brickmmo.com/), and [Conversions](https://conversions.brickmmo.com). These are introductory level tasks which require no previous coding expereince. They will be coded using [Markdown](https://daringfireball.net/projects/markdown/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+> View a complete list of tasks and detailed instrucitons:  
+> [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
 
 ### Methodology
 
