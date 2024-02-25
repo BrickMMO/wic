@@ -80,7 +80,7 @@ Students are onboarded and introduced to the workplace process, guidelines, and 
 Tasks included:
 
 1. Installing required software ([Git](https://git-scm.com/), [Homebrew](https://brew.sh/), [GitHub CLI](https://cli.github.com/), [Visual Studio Code](https://code.visualstudio.com/)).
-2. Registering for required accounts and completing profiles ([GitHub](https://cli.github.com/), [Flow](https://flow.brickmmo.com/), [Discord](https://discord.com/)).
+2. Registering for required accounts and completing profiles ([GitHub](https://cli.github.com/), [Flow](https://flow.brickmmo.com/), [Discord](https://discord.com/), [StackOverflow](https://stackoverflow.com/)).
 
 #### Weeks 5 to 10 - Individual Tasks
 
