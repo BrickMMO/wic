@@ -108,7 +108,7 @@ During the 14 week first semester students were periodically asked to assess the
 6. Markdown
 7. PHP
 
-Data was collected anonymously. Any data sets that had less than five entries was removed. Remaining data was plotted on a line graph for each student and compared. 
+Data was collected anonymously. Any data sets that had less than five entries were removed. Remaining data was plotted on a line graph for each student and compared. 
 
 A few important notes before analyizing the results:
 
@@ -159,6 +159,17 @@ The self-efficacy for all topics increased a approximately the same rate. This i
 This student appears to have started the course with existing skills in CSS, GitHub, HTML, and JavaScript). The larget increases in self-efficacy were topics taught using the WIC methodology (GitHub and Markdown). The self-efficacy in PHP did not change over the course, this is likely due to this student not choosing an Individual or Group Task related to PHP.
 
 ### Conclusions
+
+The first case study of integrating Workplace Integrated Classroom into a course resulted in the following benefits:
+
+**Industry Experience**
+Students received a close to industry experience during their first semester of courses. This experience is usually restricted to later on in a program and usually without the direct support of their faculty and fellow students. 
+
+**Learning Experience**
+Students learned skills simply by providing them with opportunity to use them in an industry like environment. Student self-efficacy in these topics increased at a rate similar or quicker than topics that were taught in a dedicate course using more traditional teaching methodologies. 
+
+**Attendance**
+During the Winter 2023 semester (before WIC) the acerage attendance in the **Workshops in Web Development** course was 55%. However, in the Fall 2023 semester, the average attendance was 91%. 
 
 
 
