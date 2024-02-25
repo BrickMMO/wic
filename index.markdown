@@ -48,6 +48,8 @@ WIC has similar qualities to that of WBL in that both integrate with the workpla
 
 This teaching method was initially designed within a Web Development program at [Humber College](https://humber.ca/), in Toronto, Canada. Students enrolled in this program have varying degree of previous experience with coding ranging from absolute coding beginners to recent graduates of university computer science programs.
 
+![BrickMMO Smart City](images/class.png)
+
 WIC was integrated into a **Workshops in Web Development** course. This is a first semester course on a typical Canadian fourteen week semester. Workshops course description:
 
 > Workshops  
