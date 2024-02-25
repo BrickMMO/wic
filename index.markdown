@@ -171,7 +171,7 @@ Students learned skills simply by providing them with opportunity to use them in
 **Attendance**
 During the Winter 2023 semester (before WIC) the acerage attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, the average attendance was 91%. 
 
-![Student Attendance](images/student-attendance.png)
+![Student Attendance](images/attendance-chart.png)
 
 ### References
 
