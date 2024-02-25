@@ -8,6 +8,8 @@ Workplace Integrated Classroom is a teaching methodology that provides students 
 
 WIC prioritizes individual growth over evaluation, learning by doing over lectures, and individual student learning journeys over learning outcomes.
 
+![BrickMMO Smart City](images/smart-city.jpg)
+
 ### Classroom Environment
 
 In a Workplace Integrated Classroom (WIC), the classroom environment is designed to mimic that of a typical workplace:
