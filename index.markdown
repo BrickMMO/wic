@@ -52,7 +52,7 @@ This teaching method was initially designed within a Web Development program at 
 
 WIC was integrated into a **Workshops in Web Development** course. This is a first semester course on a typical Canadian fourteen week semester. Workshops course description:
 
-> Workshops  
+> **Workshops in Web Development**  
 > This course will allow students to access additional support for content delivered in the other classes each semester. Every student in the class will engage in a process of self-assessment to help them identify areas where they would benefit from help, and then the student and teaching team will set up a process for providing support for any areas where the student would benefit from some in-the-moment support. Mentors, tutors and workshops will be available.
 
 This course focuses on Web Development related topics that are not covered in other courses such as GitHub, Docker, deployment, and the terminal; as well as reviewing code from other courses. 
