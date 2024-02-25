@@ -127,7 +127,7 @@ Here are a few samples charts and observations:
 
 #### Student 100001
 
-![Student 100001 Raw Data](images/student-100001-raw.png)
+![Student 100001 Raw Data](images/student-100001-raw.png) 
 
 ![Student 100001 Raw Data](images/student-100001-chart.png)
 
@@ -167,7 +167,7 @@ This student appears to have started the course with existing skills in CSS, Git
 
 #### Attendance
 
-During the Winter 2023 semester (before WIC) the average attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, the average attendance was 91%.
+During the Winter 2023 semester (before WIC), there were 14 students, the average attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, there were 41 students, the average attendance was 91%.
 
 ![Student Attendance Raw Data](images/attendance-raw.png)
 
