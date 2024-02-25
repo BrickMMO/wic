@@ -114,7 +114,8 @@ A few important notes before analyizing the results:
 
 1. During this semester, students had dedcated courses in C#, CSS, HTML, and JavaScript.
 2. During the Workshops course students received instructions on how to use GitHub and Markdown in the BrickMMO group development environment. 
-3. During the individual and group tasks (weeks 5 to 14), students worked on projetcs using MarkDown, HTML, CSS, JavaScript, and PHP without receiving any typical lectures. 
+3. During the individual and group tasks (weeks 5 to 14), students worked on projetcs using MarkDown, HTML, CSS, JavaScript, and PHP without receiving any typical lectures.
+4. The number of data points for each student will vary based on their attendance and if they completed the skills surveys when provided time. 
 
 ### Results
 
