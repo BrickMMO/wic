@@ -169,9 +169,9 @@ Students received a close to industry experience during their first semester of 
 Students learned skills simply by providing them with opportunity to use them in an industry like environment. Student self-efficacy in these topics increased at a rate similar or quicker than topics that were taught in a dedicate course using more traditional teaching methodologies. 
 
 **Attendance**
-During the Winter 2023 semester (before WIC) the acerage attendance in the **Workshops in Web Development** course was 55%. However, in the Fall 2023 semester, the average attendance was 91%. 
+During the Winter 2023 semester (before WIC) the acerage attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, the average attendance was 91%. 
 
-
+![Student Attendance](images/student-attendance.png)
 
 ### References
 
