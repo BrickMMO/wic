@@ -53,7 +53,7 @@ WIC was integrated into a **Workshops in Web Development** course. This is a fir
 
 This course focuses on Web Development related topics that are not covered in other courses such as GitHub, Docker, deployment, and the terminal; as well as reviewing code from other courses. 
 
-<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/docker" width="60"> <img src="https://console.codeadam.ca/api/image/googlecloud" width="60">
+<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/docker" width="60"> <img src="https://console.codeadam.ca/api/image/googlecloud" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60"> <img src="https://console.codeadam.ca/api/image/css" width="60"> <img src="https://console.codeadam.ca/api/image/php" width="60">
 
 During this case study, we worked with an industry partner named [BrevisRefero](https://www.brevisrefero.com/), a biopharma consulting and software start-up located close to Toronto, Canada. The project was [BrickMMO](https://brickmmo.com/), a project that develops interactive educational experiences with LEGO® bricks. The main instructor was [Adam Thomas](https://codeadam.ca/).
 
