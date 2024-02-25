@@ -162,7 +162,7 @@ This student appears to have started the course with existing skills in CSS, Git
 
 #### Attendance
 
-During the Winter 2023 semester (before WIC) the acerage attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, the average attendance was 91%. 
+During the Winter 2023 semester (before WIC) the average attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, the average attendance was 91%.
 
 ![Student Attendance](images/attendance-chart.png)
 
@@ -171,12 +171,17 @@ During the Winter 2023 semester (before WIC) the acerage attendance in the **Wor
 The first case study of integrating Workplace Integrated Classroom into a course resulted in the following benefits:
 
 **Industry Experience**
-Students received a close to industry experience during their first semester of courses. This experience is usually restricted to later on in a program and usually without the direct support of their faculty and fellow students. 
+Students received a close to industry experience during their first semester. This experience is usually restricted to later on in a program and usually without the direct support of their faculty and fellow students. 
 
 **Learning Experience**
 Students learned skills simply by providing them with opportunity to use them in an industry like environment. Student self-efficacy in these topics increased at a rate similar or quicker than topics that were taught in a dedicate course using more traditional teaching methodologies. 
 
+**Attendance and Engagement**
+Based on increased student attendance during the **Workshops in Web Development** course and the correlation between attendance and engagement, it can be measured that the level of student engagement increased during the course when the WIC teaching methodology was implemented (Thayer-Smith, 2007).
+
 ### References
+
+> <small>Thayer-Smith, R. A. (2007). Student attendance and its relationship to achievement and student engagement in primary classrooms. [https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1928&context=etd](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1928&context=etd)</small>
 
 > <small>What is PBL? (n.d.). PBLWorks. [https://www.pblworks.org/what-is-pbl](https://www.pblworks.org/what-is-pbl)</small>
 
