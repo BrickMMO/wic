@@ -125,9 +125,7 @@ Here are a few samples charts and observations:
 
 #### Student 100001
 
-![Student 100001 Raw Data](images/student-100001-raw.png)
-
-![Student 100001 Raw Data](images/student-100001-chart.png)
+![Student 100001 Raw Data](images/student-100001-raw.png) ![Student 100001 Raw Data](images/student-100001-chart.png)
 
 **Observations**
 
