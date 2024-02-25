@@ -165,6 +165,8 @@ This student appears to have started the course with existing skills in CSS, Git
 
 During the Winter 2023 semester (before WIC) the average attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, the average attendance was 91%.
 
+![Student Attendance Raw Data](images/attendance-raw.png)
+
 ![Student Attendance](images/attendance-chart.png)
 
 ### Conclusions
