@@ -184,7 +184,7 @@ Students received a close to industry experience during their first semester. Th
 Students learned skills simply by providing them with opportunity to use them in an industry like environment. Student self-efficacy in these topics increased at a rate similar or quicker than topics that were taught in a dedicate course using more traditional teaching methodologies. 
 
 **Attendance and Engagement**
-Based on increased student attendance during the ** in Web Development** course and the correlation between attendance and engagement, it can be measured that the level of student engagement increased during the course when the WIC teaching methodology was implemented (Thayer-Smith, 2007).
+Based on increased student attendance during the **Workshops in Web Development** course and the correlation between attendance and engagement, it can be measured that the level of student engagement increased during the course when the WIC teaching methodology was implemented (Thayer-Smith, 2007).
 
 ### References
 
