@@ -4,7 +4,7 @@
 
 ## Workplace Integrated Classroom
 
-Workplace Integrated Classroom is a teaching methodology that provides students with a close to industry workplace experience while still maintaining the comfort of the classroom and support of faculty and students.
+Workplace Integrated Classroom (WIC) is a teaching methodology that provides students with a close to industry workplace experience while still maintaining the comfort of the classroom and support of faculty and students.
 
 WIC prioritizes individual growth over evaluation, learning by doing over lectures, and individual student learning journeys over learning outcomes.
 
@@ -46,11 +46,11 @@ WIC has similar qualities to that of WBL in that both integrate with the workpla
 
 ### Case Study
 
-This teaching method was initially designed within a Web Development program at [Humber College](https://humber.ca/), in Toronto, Canada. Students enrolled in this program have varying degree of previous experience with coding ranging from absolute coding beginners to recent graduates of university computer science programs.
+This teaching method was initially designed within a Web Development program at [Humber College](https://humber.ca/), in Toronto, Canada. Students enrolled in this program have varying degree of previous experience ranging from absolute coding beginners to recent graduates of university computer science programs.
 
 ![BrickMMO Smart City](images/class.png)
 
-WIC was integrated into a **Workshops in Web Development** course. This is a first semester course on a typical Canadian fourteen week semester. Workshops course description:
+WIC was integrated into a **Workshops in Web Development** course. This is a first semester course in a typical Canadian fourteen week semester. The **Workshops in Web Development** course description:
 
 > **Workshops in Web Development**  
 > This course will allow students to access additional support for content delivered in the other classes each semester. Every student in the class will engage in a process of self-assessment to help them identify areas where they would benefit from help, and then the student and teaching team will set up a process for providing support for any areas where the student would benefit from some in-the-moment support. Mentors, tutors and workshops will be available.
@@ -97,7 +97,7 @@ Students are placed in groups and assigned tasks based on their skillset and des
 2. Contributing to the improvement of [Flow](https://flow.brickmmo.com/). This is a medium difficulty task whcih requires basic understanding ot [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), and [CSS]((https://developer.mozilla.org/en-US/docs/Web/CSS).
 3. Contributing to basic online assets such as [Pseudocoide](https://pseudocode.codeadam.ca/), [Contributions](https://contributions.brickmmo.com/), and [Conversions](https://conversions.brickmmo.com). These are introductory level tasks which require no previous coding expereince. They will be coded using [Markdown](https://daringfireball.net/projects/markdown/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
-> View a complete list of tasks and detailed instrucitons:  
+> View a complete list of tasks and detailed instructions:  
 > [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
 
 ### Methodology
@@ -112,18 +112,18 @@ During the 14 week first semester students were periodically asked to assess the
 6. Markdown
 7. PHP
 
-Data was collected anonymously. Any data sets that had less than five entries were removed. Remaining data was plotted on a line graph for each student and compared. Anonymous attendance was also tracked and compared with attendance fromprevious semesters. 
+Data was collected anonymously. Any data sets that had less than five entries were removed. Remaining data was plotted on a line graph for each student and compared. Anonymous attendance was also tracked and compared with attendance from previous cohorts. 
 
 A few important notes before analyizing the results:
 
-1. During this semester, students had dedcated courses in C#, CSS, HTML, and JavaScript.
-2. During the Workshops course students received instructions on how to use GitHub and Markdown in the BrickMMO group development environment. 
-3. During the individual and group tasks (weeks 5 to 14), students worked on projetcs using MarkDown, HTML, CSS, JavaScript, and PHP without receiving any typical lectures.
+1. During this semester, students had dedicated courses in C#, CSS, HTML, and JavaScript.
+2. During the ** in Web Development** course students received instructions on how to use GitHub and Markdown in the BrickMMO group development environment. 
+3. During the individual and group tasks (weeks 5 to 14), students worked on projetcs using MarkDown, HTML, CSS, JavaScript, and PHP without receiving any typical lecture style instruction.
 4. The number of data points for each student will vary based on their attendance and if they completed the skills surveys when provided time. 
 
 ### Results
 
-Here are a few samples charts and observations:
+Here are a few samples student skill charts and observations:
 
 #### Student 100001
 
@@ -167,7 +167,7 @@ This student appears to have started the course with existing skills in CSS, Git
 
 #### Attendance
 
-During the Winter 2023 semester (before WIC), there were 14 students, the average attendance in the **Workshops in Web Development** course was 58%. However, in the Fall 2023 semester, there were 41 students, the average attendance was 91%.
+During the Winter 2023 semester (before WIC), there were 14 students, the average attendance in the ** in Web Development** course was 58%. However, in the Fall 2023 semester, there were 41 students, the average attendance was 91%.
 
 ![Student Attendance Raw Data](images/attendance-raw.png)
 
@@ -184,7 +184,7 @@ Students received a close to industry experience during their first semester. Th
 Students learned skills simply by providing them with opportunity to use them in an industry like environment. Student self-efficacy in these topics increased at a rate similar or quicker than topics that were taught in a dedicate course using more traditional teaching methodologies. 
 
 **Attendance and Engagement**
-Based on increased student attendance during the **Workshops in Web Development** course and the correlation between attendance and engagement, it can be measured that the level of student engagement increased during the course when the WIC teaching methodology was implemented (Thayer-Smith, 2007).
+Based on increased student attendance during the ** in Web Development** course and the correlation between attendance and engagement, it can be measured that the level of student engagement increased during the course when the WIC teaching methodology was implemented (Thayer-Smith, 2007).
 
 ### References
 
