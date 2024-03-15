@@ -181,7 +181,7 @@ During the Winter 2023 semester (before WIC), there were 14 students, the averag
 
 **Observations**
 
-From these two charts, you can see that students began the course with different levels related to PHP and Markdown. However, 
+From these two charts, you can see that students began the course with different levels related to PHP and Markdown. However, with the exception of a few students who likely chose not to participate in PHP tasks, all students made significant improvement. 
 
 ### Conclusions
 
