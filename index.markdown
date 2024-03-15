@@ -173,6 +173,16 @@ During the Winter 2023 semester (before WIC), there were 14 students, the averag
 
 ![Student Attendance](images/attendance-chart.png)
 
+#### Personalized Learning Journeys
+
+![PHP](images/skill-php-chart.png)
+
+![Markdown](images/skill-markdown-chart.png)
+
+**Observations**
+
+From these two charts, you can see that students began the course with different levels related to PHP and Markdown. However, 
+
 ### Conclusions
 
 The first case study of integrating Workplace Integrated Classroom into a course resulted in the following benefits:
