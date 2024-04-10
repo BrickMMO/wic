@@ -6,7 +6,7 @@
 
 Workplace Integrated Classroom (WIC) is a teaching methodology that provides students with a close to industry workplace experience while still maintaining the comfort of the classroom and support of faculty and students.
 
-WIC prioritizes individual growth over evaluation, learning by doing over lectures, and achieving leaning outcomes through individual student learning journeys.
+WIC prioritizes individual growth over evaluation, learning by doing over lectures, and achieving learning outcomes through individual student learning journeys.
 
 ![BrickMMO Smart City](images/smart-city.jpg)
 
@@ -63,7 +63,7 @@ During this case study, we worked with an industry partner named [BrevisRefero](
 
 [![Adam Thomas](images/codeadam.jpg)](https://codeadam.ca/) [![Humber College](images/humber.jpg)](https://humber.ca/) [![BrevisRefero](images/brevisrefero.jpg)](https://www.brevisrefero.com/)
 
-The following is the timeline used to inegrate WIC in this course:
+The following is the timeline used to integrate WIC in this course:
 
 #### Weeks 1 to 4 - Onboarding
 
@@ -72,9 +72,9 @@ Students are onboarded and introduced to the workplace process, guidelines, and 
 1. GitHub and Git
    These are tools that enable collaboration on coding projects.
 2. Flow
-   A basic custom project management application. Students can log in, receive projects tasks, ask questions, log hours, etc...
+   A basic custom project management application. Students can log in, receive project tasks, ask questions, log hours, etc...
 3. Discord
-   A comminication tool where students are placed in groups based on projects, can chat with other students, share files, etc...
+   A communication tool where students are placed in groups based on projects, can chat with other students, share files, etc...
 4. [BrickMMO branding guidelines](https://branding.brickmmo.com/), [Tidy](https://tidy.brickmmo.com/), [eplus](https://eplus.codeadam.ca/), and [\_readme](https://readme.codeadam.ca/) programming guidelines.
 
 Tasks included:
@@ -84,18 +84,18 @@ Tasks included:
 
 #### Weeks 5 to 10 - Individual Tasks
 
-Students are assigned simple tasks that can be completed as an individual. Students were placed in groups only to suppot each other. Over the six weeks the tasks increased in difficulty. Tasks included:
+Students are assigned simple tasks that can be completed as an individual. Students were placed in groups only to support each other. Over the six weeks the tasks increased in difficulty. Tasks included:
 
-1. Making basic changes to BrickMMO online assets using simple laguages such as [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [Markdown](https://daringfireball.net/projects/markdown/).
+1. Making basic changes to BrickMMO online assets using simple languages such as [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [Markdown](https://daringfireball.net/projects/markdown/).
 2. Participating in BrickMMO related hackathons and brainstorming sessions.
 
 #### Weeks 11 to 14 -  Groups Tasks
 
 Students are placed in groups and assigned tasks based on their skillset and desire to learn. Each week class is started with a stand up style meeting and then students are given time to work on their projects. Projects include:
 
-1. Contributing to the development of the official [BrickMMO website](https://brickmmo.com/). This is a more advance task which requires understanding of [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [React](https://react.dev/), and [MUI](https://mui.com/).
-2. Contributing to the improvement of [Flow](https://flow.brickmmo.com/). This is a medium difficulty task whcih requires basic understanding ot [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), and [CSS]((https://developer.mozilla.org/en-US/docs/Web/CSS).
-3. Contributing to basic online assets such as [Pseudocoide](https://pseudocode.codeadam.ca/), [Contributions](https://contributions.brickmmo.com/), and [Conversions](https://conversions.brickmmo.com). These are introductory level tasks which require no previous coding expereince. They will be coded using [Markdown](https://daringfireball.net/projects/markdown/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+1. Contributing to the development of the official [BrickMMO website](https://brickmmo.com/). This is a more advanced task which requires understanding of [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [React](https://react.dev/), and [MUI](https://mui.com/).
+2. Contributing to the improvement of [Flow](https://flow.brickmmo.com/). This is a medium difficulty task whcih requires basic understanding of [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), and [CSS]((https://developer.mozilla.org/en-US/docs/Web/CSS).
+3. Contributing to basic online assets such as [Pseudocoide](https://pseudocode.codeadam.ca/), [Contributions](https://contributions.brickmmo.com/), and [Conversions](https://conversions.brickmmo.com). These are introductory level tasks which require no previous coding experience. They will be coded using [Markdown](https://daringfireball.net/projects/markdown/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 > View a complete list of tasks and detailed instructions:  
 > [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
@@ -114,11 +114,11 @@ During the 14 week first semester students were periodically asked to assess the
 
 Data was collected anonymously. Any data sets that had less than five entries were removed. Remaining data was plotted on a line graph for each student and compared. Anonymous attendance was also tracked and compared with attendance from previous cohorts. 
 
-A few important notes before analyizing the results:
+A few important notes before analyzing the results:
 
 1. During this semester, students had dedicated courses in C#, CSS, HTML, and JavaScript.
 2. During the ** in Web Development** course students received instructions on how to use GitHub and Markdown in the BrickMMO group development environment. 
-3. During the individual and group tasks (weeks 5 to 14), students worked on projetcs using MarkDown, HTML, CSS, JavaScript, and PHP without receiving any typical lecture style instruction.
+3. During the individual and group tasks (weeks 5 to 14), students worked on projects using MarkDown, HTML, CSS, JavaScript, and PHP without receiving any typical lecture style instruction.
 4. The number of data points for each student will vary based on their attendance and if they completed the skills surveys when provided time. 
 
 ### Results
@@ -133,7 +133,7 @@ Here are a few samples student skill charts and observations:
 
 **Observations**
 
-The self-efficacy for GitHub, Markdown, and PHP (taught using the WIC methodology) increased as fast as topics such as C#, CSS, HTML, and JavaScript despite not having courses deicated to these topics. The self-efficacy in PHP declined over the course, this is likely due to this student not choosing an Individual or Group Task related to PHP. 
+The self-efficacy for GitHub, Markdown, and PHP (taught using the WIC methodology) increased as fast as topics such as C#, CSS, HTML, and JavaScript despite not having courses dedicated to these topics. The self-efficacy in PHP declined over the course, this is likely due to this student not choosing an Individual or Group Task related to PHP. 
 
 #### Student 100019
 
@@ -143,7 +143,7 @@ The self-efficacy for GitHub, Markdown, and PHP (taught using the WIC methodolog
 
 **Observations**
 
-The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gains. The largest increases in self-efficacy for GitHub, Markdown, and PHP are reflective of when students are assigned realted tasks. GitHub and Markdown are assigned during the Onboarding phase and PHP is assigned during the Individual and Group Task phase. 
+The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gains. The largest increases in self-efficacy for GitHub, Markdown, and PHP are reflective of when students are assigned related tasks. GitHub and Markdown are assigned during the Onboarding phase and PHP is assigned during the Individual and Group Task phase. 
 
 #### Student 100031
 
@@ -153,7 +153,7 @@ The self-efficacy for GitHub, Markdown, PHP, and JavaScript had the largest gain
 
 **Observations**
 
-The self-efficacy for all topics increased a approximately the same rate. This is despite some topics having dedicated courses (C#, CSS, HTML, JavaScript) white others are taught using the WIC methodology (GitHub, Markdown, PHP). 
+The self-efficacy for all topics increased a approximately the same rate. This is despite some topics having dedicated courses (C#, CSS, HTML, JavaScript) while others are taught using the WIC methodology (GitHub, Markdown, PHP). 
 
 #### Student 100035
 
@@ -181,7 +181,7 @@ During the Winter 2023 semester (before WIC), there were 14 students, the averag
 
 **Observations**
 
-From these two charts, you can see that students began the course with different levels related to PHP and Markdown. However, with the exception of a few students who likely chose not to participate in PHP tasks, all students made significant improvement. 
+From these two charts, you can see that students began the course with different levels related to PHP and Markdown. However, with the exception of a few students who likely chose not to participate in PHP tasks, all students made significant improvements. 
 
 ### Conclusions
 
@@ -191,7 +191,7 @@ The first case study of integrating Workplace Integrated Classroom into a course
 Students received a close to industry experience during their first semester. This experience is usually restricted to later on in a program and usually without the direct support of their faculty and fellow students. 
 
 **Learning Experience**
-Students learned skills simply by providing them with opportunity to use them in an industry like environment. Student self-efficacy in these topics increased at a rate similar or quicker than topics that were taught in a dedicate course using more traditional teaching methodologies. 
+Students learned skills simply by providing them with opportunity to use them in an industry like environment. Student self-efficacy in these topics increased at a rate similar or quicker than topics that were taught in a dedicated course using more traditional teaching methodologies. 
 
 **Attendance and Engagement**
 Based on increased student attendance during the **Workshops in Web Development** course and the correlation between attendance and engagement, it can be measured that the level of student engagement increased during the course when the WIC teaching methodology was implemented (Thayer-Smith, 2007).
