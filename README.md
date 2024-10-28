@@ -1,7 +1,5 @@
 # Workplace Integrated Classroom
 
-**Published Feb 23, 2022**
-
 A small website coded using Markdown outlining the struture and perceived benefits of Workplace Integrated Classroom (WIC). 
 
 > **Note**  
