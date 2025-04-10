@@ -208,6 +208,6 @@ Based on increased student attendance during the **Workshops in Web Development*
 
 ---
 
-<a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
 </a>
