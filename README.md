@@ -23,5 +23,5 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 - [BrickMMO Tasks](https://tasks.brickmmo.ca)
 
 <a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png" width="300">
 </a>
