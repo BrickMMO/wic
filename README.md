@@ -20,7 +20,8 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [WIC](https://wic.codeadam.ca)
+- [CodeAdam](https://codeadam.ca/)
+- [Workplace Integrated Classroom](https://wic.codeadam.ca/)
 
 <br>
 <a href="https://codeadam.ca">
