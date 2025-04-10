@@ -20,8 +20,9 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [BrickMMO Tasks](https://tasks.brickmmo.ca)
+- [WIC](https://wic.codeadam.ca)
 
-<a href="https://brickmmo.com">
-<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png" width="100">
+<br>
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
